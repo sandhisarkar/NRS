@@ -1,0 +1,168 @@
+9/8/2020 5:04:01 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:04:29 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:05:38 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:06:06 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:23:52 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:24:15 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:24:39 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:25:03 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:27:02 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:27:25 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:27:49 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:28:13 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:42:21 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:42:54 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:43:18 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:43:45 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:52:13 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:52:39 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:53:06 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/8/2020 5:53:37 PM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:36:40 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:37:05 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:37:33 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:37:57 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:42:24 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:42:46 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:43:10 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
+9/9/2020 11:43:35 AM
+Failure sending mail.
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at NovaNet.Utils.exLog.emailLogger.Log(Exception ex) in D:\CHC\NovaNet\Utils\emailLogger.cs:line 83
+System
+--------End--------
